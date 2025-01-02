@@ -1,0 +1,7 @@
+The solution is simple: always add a space after the operators in your `calc()` expressions.  Here's the corrected code that will produce the expected result:
+
+```css
+width: calc(50% - 10px);
+/*Correct usage*/
+```
+By adhering to this rule, you avoid common pitfalls and ensure `calc()` functions as intended.
